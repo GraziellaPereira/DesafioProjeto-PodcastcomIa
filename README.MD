@@ -1,25 +1,12 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://image.lexica.art/full_webp/0cebae5b-2d18-4310-bcc1-30bd714bb291"
     width="300"
 />
 </p>
 
 <p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
-
-<p align="center">
-    preview do podcast
+    Preview do podcast
 </p>
 
 <div align="center">
