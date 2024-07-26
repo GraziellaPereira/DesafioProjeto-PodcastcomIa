@@ -9,23 +9,18 @@
     Preview do podcast
 </p>
 
+# ❗ Do podcast
+Projeto com o objetivo de gerar um podcast com as facilidades das ferramentas de IA. Mai abaixo estarão todos os prompts utilizados.
+ > ℹ️ **NOTE:** O conteúdo deste ebook está sujeito a erros, uma vez que foi produzido por uma IA. Apenas a edição foi feita por uma pessoa real.
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <a href="https://github.com/GraziellaPereira/DesafioProjeto-PodcastcomIa/blob/main/output/PodcastIA.mp4" title="Listen to podcast"> 🎧 Clique aqui para baixar o podcast em "view raw" e assim escutá-lo</a>
 </div>
 
-# Projeto Podcast Gerado por I.A.s
-
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [LeonardoAI](https://leonardo.ai/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
@@ -33,54 +28,33 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- LeonardoAI para gerar capa
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## 📚 Materiais
+## 📚 Material
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- [Notion com o prompts](https://feline-hydrangea-765.notion.site/Podcast-1cfc9c4936e94c12b636c16dfd97ae28?pvs=4)
 
 
-## 🛠️ Instruções de execução
-
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
-## 👨‍💻 Expert
+## 🖌 Autora
 
 <p>
     <img 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://media-gru2-1.cdn.whatsapp.net/v/t61.24694-24/437289989_765255408692368_8150211300087041613_n.jpg?ccb=11-4&oh=01_Q5AaIAAi3mlqVD0onuM_wCtcnCPtowapOUT8D__aFFIZWYWM&oe=66AEB18E&_nc_sid=e6ed6c&_nc_cat=110"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspGraziella Pereira<br>
     &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
+    <a href="https://github.com/GraziellaPereira">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="www.linkedin.com/in/
+graziellapereira">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/passarosdeargila/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
 </p>
-<br/><br/>
-<p>
 
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
