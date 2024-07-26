@@ -33,7 +33,7 @@ Projeto com o objetivo de gerar um podcast com as facilidades das ferramentas de
 
 ## 📚 Material
 
-- [Notion com o prompts](https://feline-hydrangea-765.notion.site/Podcast-1cfc9c4936e94c12b636c16dfd97ae28?pvs=4)
+- [Notion com os prompts](https://feline-hydrangea-765.notion.site/Podcast-1cfc9c4936e94c12b636c16dfd97ae28?pvs=4)
 
 
 ## 🖌 Autora
